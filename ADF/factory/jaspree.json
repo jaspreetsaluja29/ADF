@@ -1,0 +1,9 @@
+{
+	"name": "jaspree",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd72d58c-960e-4472-b0c1-95c37c2234e7",
+		"tenantId": "94960c8d-669f-441f-8bfa-e8c2da12f067"
+	}
+}
